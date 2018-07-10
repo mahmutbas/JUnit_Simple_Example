@@ -9,7 +9,7 @@ public class ArtikYilKontrol {
 
 	public boolean artikYilmi(int yil) 
     {
-        boolean artik = false;
+        boolean artik = false;//
          
         if( yil % 4 == 0 )
         {
